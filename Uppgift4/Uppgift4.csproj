@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="G:\Min enhet\Programering Vincent TEI21A\Animam Klassdiagram %28koden%29.cs" Link="Animam Klassdiagram %28koden%29.cs" />
+    <Compile Include="G:\Min enhet\Programering Vincent TEI21A\Upg 4 %28klassdiagram%29.cs" Link="Upg 4 %28klassdiagram%29.cs" />
+  </ItemGroup>
+
+</Project>
